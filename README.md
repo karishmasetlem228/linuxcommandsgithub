@@ -3,6 +3,7 @@
 - pwd
 - ls
 - cd path
+-cd./
 - mkdir foldername
 -rmdir foldername
 - rm filename
